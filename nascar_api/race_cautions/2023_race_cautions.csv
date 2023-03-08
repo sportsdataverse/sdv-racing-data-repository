@@ -1,0 +1,74 @@
+race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
+5259,16,16,Accident,"#34, 43 Incident Turn 2",38,2
+5259,23,23,Accident,"#9, 12, 14, 54, 99 Incident Turn 3",None,2
+5259,42,42,Accident,"#16, 38, 54 Incident Turn 2",9,2
+5259,73,73,Accident,"#1, 11 Incident Turn 2",10,2
+5259,75,75,Competition,Stage Conclusion,9,2
+5259,76,76,Accident,"#11, 54 Incident Turn 2",16,2
+5259,78,78,Accident,"#4, 38 Incident Turn 2",12,2
+5259,81,81,Accident,"#11, 20, 34, 54 Incident Turn 2",4,2
+5259,81,81,Accident,"#4, 38 Incident Turn 2",None,2
+5259,85,85,Accident,"#2, 16, 20 Incident Turn 2",None,2
+5259,86,86,Accident,"#8, 22 Incident Turn 3",None,2
+5259,106,106,Accident,"#14, 31, 45 Incident Turn 2 ",2,2
+5259,109,109,Accident,"#14, 42 Incident Turn 3",None,2
+5259,113,113,Accident,"#1, 12, 45 Incident Turn 2",14,2
+5259,140,140,Unknown,#34 Stopped On Track,None,2
+5259,143,143,Accident,"#3, 23 Incident Turn 1",None,2
+5267,7,10,Debris,Debris Backstretch,None,2
+5267,42,46,Accident,"#8, 99, 67, 62, 15, 31 Incident Backstretch",78,2
+5268,67,71,Competition,Stage 1 Conclusion,16,2
+5268,119,124,Accident,"#45, 19, 12, 9, 43, 8, 5, 99, 4 Incident Turn 4",23,2
+5268,132,137,Competition,Stage 2 Conclusion,8,2
+5268,140,143,Debris,Debris Turn 2,15,2
+5268,183,187,Accident,"#4, 19, 41, 14, 54, 84, 34 Incident Turn 2",12,2
+5268,199,202,Spin,#99 Spin Frontstretch,12,2
+5268,204,210,Accident,"#2, 38, 21, 42, 3, 31, 15, 84, 24, 36, 11, 6, 1 Incident Turn 3",99,2
+5268,212,212,Accident,"#12, 10, 2, 23, 6, 5, 8, 11, 16 Incident Turn 2",None,2
+5269,17,20,Competition,Competition Caution,None,2
+5269,43,46,Accident,"#6, 7 Incident Backstretch",51,2
+5269,67,72,Competition,Stage 1 Conclusion,14,2
+5269,76,79,Accident,#16 Incident Backstretch,6,2
+5269,82,86,Spin,#7 Spin Turn 4,51,2
+5269,88,92,Accident,"#41, 20, 12, 10, 45, 51, 77, 31, 38 Incident Frontstretch",19,2
+5269,132,137,Competition,Stage 2 Conclusion,42,2
+5269,142,145,Unknown,#77 Stopped on Track,19,2
+5270,82,89,Competition,Stage 1 Conclusion,41,2
+5270,167,173,Competition,Stage 2 Conclusion ,7,2
+5270,184,189,Spin,No. 22 Spin Turn 4,2,2
+5270,265,269,Spin,No. 10 Spin Turn 4,43,2
+5310,9,11,Unknown,Potential Fluid On Frontstretch,None,2
+5310,21,25,Accident,"#1, 07, 11 Incident Frontstretch",None,2
+5310,32,36,Competition,Stage 1 Conclusion,None,2
+5310,42,45,Accident,"#7, 45, 48, 2, 21, 10 Incident Frontstretch",None,2
+5310,62,66,Spin,#18 Spin Frontstretch / Stage 2 Conclusion,45,2
+5310,90,94,Accident,#35 Incident Frontstretch,28,2
+5310,120,123,Accident,"#8, 9 Incident Backstretch",18,2
+5310,125,125,Accident,"#7, 1, 21 Incident Backstretch",None,2
+5311,17,19,Competition,Competition Caution,None,2
+5311,28,31,Accident,#08 Incident Turn 2,None,2
+5311,37,41,Competition,Stage 1 Conclusion,None,2
+5311,45,48,Accident,"#2, 8 Incident Backstretch",9,2
+5311,63,65,Spin,#8 Spin Turn 2,7,2
+5311,72,76,Competition,Stage 2 Conclusion,9,2
+5311,87,90,Spin,#9 Spin Turn 4,None,2
+5311,92,95,Accident,"#00, 10, 19 Incident Turn 2",9,2
+5311,129,133,Spin,#43 Spin Turn 2,39,2
+5311,135,138,Accident,"#18, 21, 2 Incident Backstretch",91,2
+5312,4,6,Spin,No. 48 Spin Turn 2,None,2
+5312,47,53,Competition,Stage 1 Conclusion,45,2
+5312,75,78,Spin,No. 8 Spin Turn 4,51,2
+5312,90,97,Spin,No. 45 Spin Turn 2 / Stage 2 Conclusion,4,2
+5343,3,6,Weather,Weather,None,2
+5343,8,10,Weather,Weather,None,2
+5343,22,25,Competition,Stage 1 Conclusion,None,2
+5343,30,35,Accident,"#43, 84, 5, 13, 25, 15, 22, 32 Incident Frontstretch [Red Flag 1: 00:09:06] [Red Flag 2: 00:02:57]",None,2
+5343,41,47,Accident,"#52, 32, 97, 75, 9, 99 Incident Backstretch / Stage 2 Conclusion",15,2
+5343,59,64,Accident,"#25, 43, 24, 98, 11, 15 Incident Turn 3",52,2
+5343,69,79,Weather,Weather [Red Flag: 01:00:54],30,2
+5344,20,24,Accident,No. 32 Incident Turn 1,52,2
+5344,32,36,Competition,Stage 1 Conclusion ,43,2
+5344,41,44,Spin,No. 20 Spin Turn 4,43,2
+5344,49,52,Accident,No. 45 Incident Turn 2,20,2
+5344,55,58,Accident,No. 02 Incident Turn 2,2,2
+5344,61,65,Accident,"No. 17, 13, 41 Incident Backstretch/Stage 2 Conclusion",2,2
