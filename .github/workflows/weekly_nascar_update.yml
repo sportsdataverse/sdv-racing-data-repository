@@ -6,10 +6,10 @@ name: Update NASCAR Data
 on:
   schedule:
     - cron: "30 4 * 2-11 *" 
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  #push:
+  #  branches: [ main ]
+  #pull_request:
+  #  branches: [ main ]
     
 jobs:
   build:
