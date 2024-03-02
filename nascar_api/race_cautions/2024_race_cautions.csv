@@ -55,3 +55,7 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5464,80,85,Debris,Debris Frontstretch,25,2
 5464,95,99,Debris,Debris Turn 4,1,2
 5464,101,104,Debris,Debris Frontstretch,99,2
+5463,4,7,Accident,#41 incident backstretch,None,2
+5463,32,36,Competition,Stage 1 Conclusion,22,2
+5463,62,66,Competition,Stage 2 Conclusion,22,2
+5463,68,72,Accident,#5 incident turn 4,46,2
