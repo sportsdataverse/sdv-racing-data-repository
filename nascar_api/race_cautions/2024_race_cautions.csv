@@ -23,6 +23,12 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5389,220,225,Accident,"#5, 6, 7 Incident Turn 4",4,2
 5389,241,245,Accident,"#11, 14 Incident Turn 3 [Red Flag: 00:11:25]",24,2
 5389,250,255,Accident,"#4, 9, 77 Incident Backstretch",11,2
+5387,11,15,Unknown,Possible fluid on track,None,2
+5387,28,35,Accident,#17 incident turn 1 [Red Flag: Lap 33; 10:39],71,2
+5387,82,88,Competition,Stage 1 Conclusion,24,2
+5387,158,161,Spin,#20 spin turn 2,16,2
+5387,167,172,Competition,Stage 2 Conclusion,23,2
+5387,236,240,Accident,#7 incident turn 2,31,2
 5429,24,29,Accident,"#1, 14, 15, 91 Incident Turn 1",None,2
 5429,32,35,Competition,Stage 1 Conclusion,None,2
 5429,38,42,Accident,"#21, 16, 97, 48, 2, 20, 10, 5, 11, 35, 51 Incident Backstretch",None,2
