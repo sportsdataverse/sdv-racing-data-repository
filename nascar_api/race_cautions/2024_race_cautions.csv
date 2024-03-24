@@ -67,6 +67,10 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5432,138,143,Accident,#15 Incident Turn 2,29,2
 5432,145,151,Accident,"#31, 15, 27, 20, 98, 1, 44, 21, 81, 17, 43 Incident Backstretch [Red Flag 11:05]",78,2
 5432,197,203,Accident,#7 Incident Turn 1,92,2
+5434,16,17,Competition,Stage 1 Conclusion,18,2
+5434,32,34,Competition,Stage 2 Conclusion,18,2
+5434,44,45,Unknown,Fluid on track,27,2
+5434,47,48,Accident,"#43, 42, 07, 29, 98 Incident Turn 11",27,2
 5462,7,12,Accident,"#15, 71, 42, 9, 46, 88, 33, 25, 27, 13, 52, 38, 2 Incident Backstretch",None,2
 5462,17,19,Accident,"#33, 27 Incident Turn 2",15,2
 5462,22,26,Competition,Stage 1 Conclusion,52,2
@@ -96,3 +100,9 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5467,132,142,Competition,Stage 2 Conclusion,66,2
 5467,145,152,Accident,"No. 98, 99, 18, 25, 32, 46, 18 Incident Backstretch",25,2
 5467,220,226,Accident,"No. 52, 2 Incident Frontstretch",99,2
+5465,4,5,Debris,Debris (backstretch),None,2
+5465,14,14,Competition,Stage 1 Conclusion,7,2
+5465,23,24,Unknown,#33 Stopped on Track,04,2
+5465,28,28,Competition,Stage 2 Conclusion,33,2
+5465,39,39,Unknown,#33 Stopped on Track,None,2
+5465,42,44,Debris,Debris (Turn 11) [Red Flag - 4:35],38,2
