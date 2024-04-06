@@ -119,3 +119,14 @@ race_id,start_lap,end_lap,reason,comment,beneficiary_car_number,flag_state
 5465,28,28,Competition,Stage 2 Conclusion,33,2
 5465,39,39,Unknown,#33 Stopped on Track,None,2
 5465,42,44,Debris,Debris (Turn 11) [Red Flag - 4:35],38,2
+5468,31,36,Spin,No. 46 Spin Turn 3,32,2
+5468,52,60,Competition,Stage 1 Conclusion,02,2
+5468,66,73,Accident,"Nos. 15, 88, 02, 90 Incident Turn 2",90,2
+5468,77,83,Accident,"Nos. 38, 91 Incident Turn 2",46,2
+5468,99,109,Accident,"Nos. 38, 43, 76 Incident Turn 1 / Stage 2 Conclusion",22,2
+5468,135,140,Accident,"Nos. 43, 45 Incident Backstretch",38,2
+5468,147,154,Accident,"Nos. 5, 9, 99 Incident Turn 1",22,2
+5468,159,164,Accident,"Nos. 45, 32, 90 Incident Turn 1",22,2
+5468,166,172,Accident,"Nos. 32, 13, 33, 91, 66, 43 Incident Turn 4",None,2
+5468,178,183,Accident,"Nos. 38, 13, 9, 41, 66 Incident Turn 2",None,2
+5468,191,197,Accident,"Nos. 52, 42, 9 Incident Turn 2",13,2
