@@ -150,7 +150,7 @@ def get_racing_reference_race_results(season:int,series_id="W"):
         try:
             sched_df = pd.read_csv(f'racing_reference/cart/schedule/{season}_schedule.csv')
         except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} CART season.')
     ## United States Auto Club (USAC) Championship Car Series
     elif series_id.upper() == "UO":
         try:
