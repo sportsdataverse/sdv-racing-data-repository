@@ -112,7 +112,7 @@ def get_racing_reference_race_results(season:int,series_id="W"):
     ## Modified series
     elif series_id.upper() == "N":
         try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+            sched_df = pd.read_csv(f'racing_reference/nascar_modified/schedule/{season}_schedule.csv')
         except:
             raise FileNotFoundError(f'Could not find a schedule file for the {season} NASCAR Modified season.')
     ## NASCAR Pinty's series
@@ -142,15 +142,15 @@ def get_racing_reference_race_results(season:int,series_id="W"):
     ## IndyCar Series
     elif series_id.upper() == "O":
         try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+            sched_df = pd.read_csv(f'racing_reference/indycar/schedule/{season}_schedule.csv')
         except:
             raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
     ## Championship Auto Racing Teams (CART)
     elif series_id.upper() == "R":
         try:
-            sched_df = pd.read_csv(f'racing_reference/nascar_arca/schedule/{season}_schedule.csv')
+            sched_df = pd.read_csv(f'racing_reference/cart/schedule/{season}_schedule.csv')
         except:
-            raise FileNotFoundError(f'Could not find a schedule file for the {season} IndyCar season.')
+            raise FileNotFoundError(f'Could not find a schedule file for the {season} CART season.')
     ## United States Auto Club (USAC) Championship Car Series
     elif series_id.upper() == "UO":
         try:
